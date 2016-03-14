@@ -37,5 +37,5 @@
 * [FAQ](faq.md)
 * [Sample Chapter](sample_chapter.md)
    * [Sample page](sample_page.md)
-   * sample-page-2
+   * [sample-page-2](sample-page-2.md)
 
