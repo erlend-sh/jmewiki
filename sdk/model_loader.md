@@ -24,9 +24,9 @@ You can create custom model importers for the jMonkeyEngine SDK. The SDK support
 </li>
 </ol>
 
-<p>
+
 See also:
-</p>
+
 <ul>
 <li class="level1"><div class="li"> <a href="/sdk/development/projects_assets.html" class="wikilink1" title="sdk:development:projects_assets">Projects and Assets</a></div>
 </li>
